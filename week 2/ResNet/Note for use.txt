@@ -1,0 +1,1 @@
+You need to download the ResNet50 model from the ResNet repository
